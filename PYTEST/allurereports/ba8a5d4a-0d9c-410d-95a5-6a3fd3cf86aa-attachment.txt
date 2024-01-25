@@ -1,0 +1,11 @@
+Escribiendo por -> xpath <- el valor: Admin
+Escribiendo por -> xpath <- el valor: admin123
+xpath
+dando click en //button[contains(@type,'submit')] -> //button[contains(@type,'submit')] 
+ENTRADA AL SISTEMA A TESTEAR
+Entrando el sistema dos
+xpath
+dando click en //span[@class='oxd-text oxd-text--span oxd-main-menu-item--name'][contains(.,'Admin')] -> //span[@class='oxd-text oxd-text--span oxd-main-menu-item--name'][contains(.,'Admin')] 
+xpath
+dando click en //span[@class='oxd-topbar-body-nav-tab-item'][contains(.,'User Management')] -> //span[@class='oxd-topbar-body-nav-tab-item'][contains(.,'User Management')] 
+Escribiendo por -> xpath <- el valor: Cheeku

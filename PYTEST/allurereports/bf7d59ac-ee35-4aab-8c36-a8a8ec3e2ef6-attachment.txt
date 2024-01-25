@@ -1,0 +1,18 @@
+Escribiendo por -> id <- el valor: admin@yourstore.com
+Escribiendo por -> id <- el valor: admin
+xpath
+dando click en //button[@type='submit'][contains(.,'Log in')] -> //button[@type='submit'][contains(.,'Log in')] 
+ENTRADA AL SISTEMA A TESTEAR
+Entrando el sistema uno
+xpath
+dando click en (//p[contains(.,'Customers')])[1] -> (//p[contains(.,'Customers')])[1] 
+xpath
+dando click en (//p[contains(.,'Customers')])[2] -> (//p[contains(.,'Customers')])[2] 
+Escribiendo por -> xpath <- el valor: victoria
+xpath
+dando click en //button[contains(@id,'search-customers')] -> //button[contains(@id,'search-customers')] 
+xpath
+dando click en //a[@href='/Admin/Customer/Create'] -> //a[@href='/Admin/Customer/Create'] 
+xpath
+dando click en //input[contains(@id,'Gender_Male')] -> //input[contains(@id,'Gender_Male')] 
+Escribiendo por -> xpath <- el valor: 2/20/2019
